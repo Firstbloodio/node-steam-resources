@@ -1,6 +1,6 @@
 node_modules
 npm-debug.log
 
-protobufs
-protobuf_gen
-steam_language
+#protobufs
+#protobuf_gen
+#steam_language
